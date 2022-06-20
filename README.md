@@ -4,7 +4,11 @@ Barong is also available as a public online resource: https://share.streamlit.io
 
 ## Requirements
 - python >=3.8
+<<<<<<< HEAD
 The project was developed on Ubuntu 20.04, but it can run in Windows and MacOS theoretically.
+=======
+The project was developed on Unbuntu 20.04, but it can run in Windows and MacOS theoretically.
+>>>>>>> 9319a969d80240527590c4336696cae0880938f4
 
 ## Installation  
 ### pip  
