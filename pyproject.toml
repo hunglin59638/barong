@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "barong"
+version = "1.0.0"
+description = ""
+authors = ["hunglin <hunglin59638@gmail.com>"]
+license = "GPL3"
+
+[tool.poetry.dependencies]
+python = ">=3.8,<4.0"
+streamlit = "^1.10.0"
+pycryptodome = "^3.14.1"
+
+[tool.poetry.dev-dependencies]
+black = "^22.3.0"
+spyder-kernels = "2.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
